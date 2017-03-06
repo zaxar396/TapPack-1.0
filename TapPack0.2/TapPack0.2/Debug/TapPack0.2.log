@@ -1,0 +1,19 @@
+﻿Сборка начата 06.03.2017 23:07:26.
+     1>Проект "B:\AProg\Programms\TapPack0.2\TapPack0.2\TapPack0.2.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         B:\VS\VC\bin\CL.exe /c /IB:\AProg\Programms\TapPack0.2\TapPack0.2\Include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt TapPack0.2.cpp
+         TapPack0.2.cpp
+     1>b:\aprog\programms\tappack0.2\tappack0.2\tappack0.2.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака
+     1>b:\aprog\programms\tappack0.2\tappack0.2\tappack0.2.cpp(20): warning C4101: dt: неиспользованная локальная переменная
+     1>b:\aprog\programms\tappack0.2\tappack0.2\tappack0.2.cpp(103): warning C4101: header: неиспользованная локальная переменная
+     1>b:\aprog\programms\tappack0.2\tappack0.2\tappack0.2.cpp(91): warning C4101: dev: неиспользованная локальная переменная
+     1>b:\aprog\programms\tappack0.2\tappack0.2\tappack0.2.cpp(108): warning C4101: number: неиспользованная локальная переменная
+     1>b:\aprog\programms\tappack0.2\tappack0.2\tappack0.2.cpp(117): warning C4101: n: неиспользованная локальная переменная
+       Link:
+         B:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"B:\AProg\Programms\TapPack0.2\Debug\TapPack0.2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"B:\AProg\Programms\TapPack0.2\Debug\TapPack0.2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"B:\AProg\Programms\TapPack0.2\Debug\TapPack0.2.lib" /MACHINE:X86 Debug\TapPack0.2.obj
+         TapPack0.2.vcxproj -> B:\AProg\Programms\TapPack0.2\Debug\TapPack0.2.exe
+     1>Сборка проекта "B:\AProg\Programms\TapPack0.2\TapPack0.2\TapPack0.2.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.58
